@@ -1,0 +1,24 @@
+{
+  "name": "sse",
+  "version": "1.0.0",
+  "description": "server send event ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yileliu/sse.git"
+  },
+  "keywords": [
+    "sse",
+    "server-sent",
+    "event"
+  ],
+  "author": "yile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yileliu/sse/issues"
+  },
+  "homepage": "https://github.com/yileliu/sse#readme"
+}
